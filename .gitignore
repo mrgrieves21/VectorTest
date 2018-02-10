@@ -3,3 +3,4 @@ Vector
 *~
 *.pro.user
 Makefile
+*.qmake.stash
